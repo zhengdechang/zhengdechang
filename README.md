@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <a href="https://zhengdechang.github.io/resume">Devin</a>!</h1>
+<h1 align="center">Hi, I'm <a href="http://resume.codedevin.top:8089">Devin</a>!</h1>
 <h1 align="center">a 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓  </h1>
 
 
@@ -7,7 +7,7 @@
   <strong><a href="https://blog.csdn.net/weixin_42662753?spm=1000.2115.3001.5343">CSDN</a></strong> |
   <strong><a href="https://zhengdechang.github.io/resume/">About</a></strong>  
 </p>
-<a href="https://zhengdechang.github.io/resume/"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/zhengdechang/count.svg" /></a>
+<a href="http://resume.codedevin.top:8089"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/zhengdechang/count.svg" /></a>
 
 
 ## 𝗠𝘆 Technology Stack
