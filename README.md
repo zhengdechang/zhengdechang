@@ -5,7 +5,7 @@
 <p align="center">
   <strong><a href="https://technology-knowledge.vercel.app">博客</a></strong> |
   <strong><a href="https://blog.csdn.net/weixin_42662753?spm=1000.2115.3001.5343">CSDN</a></strong> |
-  <strong><a href="https://zhengdechang.github.io/resume/">About</a></strong>  
+  <strong><a href="http://resume.codedevin.top:8089">About</a></strong>  
 </p>
 <a href="http://resume.codedevin.top:8089"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/zhengdechang/count.svg" /></a>
 
