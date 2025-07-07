@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm <a href="http://resume.codedevin.top:8089">Devin</a>!</h1>
-<h1 align="center">a Full-Stack 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓  </h1>
+<h1 align="center">𝒂 𝑭𝒖𝒍𝒍-𝑺𝒕𝒂𝒄𝒌 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓  </h1>
 
 
 <p align="center">
